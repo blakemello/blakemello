@@ -4,7 +4,7 @@ I'm currently working on personal web dev projects to gain more experiance and l
 
 👀 View my portfolio here: [Portfolio](https://blakemello.github.io/)
 
-📝 Check my resume out here: [Blake's Resume]([drive.google.com](https://docs.google.com/document/d/1T7XZxRWjqTRFOTAwGLI-f9whJH9tzgTXGPDAxfxNzyI/edit?usp=sharing))
+📝 Check my resume out here: [Blake's Resume](https://docs.google.com/document/d/1T7XZxRWjqTRFOTAwGLI-f9whJH9tzgTXGPDAxfxNzyI/edit?usp=sharing](https://docs.google.com/document/d/1T7XZxRWjqTRFOTAwGLI-f9whJH9tzgTXGPDAxfxNzyI/edit?usp=sharing))
 
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=blakemello&show_icons=true&theme=dark)
 
