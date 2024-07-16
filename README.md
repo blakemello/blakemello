@@ -2,6 +2,8 @@
 
 I'm currently working on personal web dev projects to gain more experiance and learn some cool things with react!
 
+👀 View my portfolio here: [Portfolio](https://blakemello.github.io/)
+
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=blakemello&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakemello&layout=compact)](https://github.com/INSERT_YOUR_HANDLE_HERE/github-readme-stats)
