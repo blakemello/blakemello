@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on personal web dev projects to gain more experiance and learn some cool things with react!
+
 <!--
 **blakemello/blakemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
