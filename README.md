@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on personal web dev projects to gain more experiance and learn some cool things with react!
+I'm currently working on personal web dev projects to gain more experience and learn some cool things with react!
 
 👀 View my portfolio here: [Portfolio](https://blakemello.github.io/)
 
